@@ -23,6 +23,7 @@ const TimerHook = () => {
         <audio controls className="audio-element">
           <source src="https://assets.coderrocketfuel.com/pomodoro-times-up.mp3"></source>
         </audio>
+        <p style={{color:'white'}}>click on the play button</p>
       </center>
     </Fragment>
   );
